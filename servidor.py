@@ -8,7 +8,7 @@
 # purpur               Install fabric  first
 # snapshot             Install vanilla first
 
-
+}
 # Ngrok region
 # Code           Place
 #-----------     ---------------------------
